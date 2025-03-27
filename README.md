@@ -5,9 +5,6 @@ ToDo-приложение на React + TypeScript с тестами.
 
 [![Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://emelyanovi.github.io/test-todos/)
 
-
-![App Screenshot](https://i.imgur.com/your-screenshot.png)
-
 ## ✨ Функционал
 - Добавление новых задач
 - Фильтрация:
