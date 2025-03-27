@@ -1,19 +1,38 @@
-#Test-Todos
+# Test-Todos 📝
 
-Тестовое задание Frontend middle в Mindbox 
-Сделайте ToDo-приложение, позволяющее управлять текущим списком дел
-Что должно быть в интерфейсе:
-Поле для ввода новой задачи
-Списки всех задач, невыполненных и выполненных задач (по отдельности)
- 
-Требования к коду:
-Приложение создано с использованием TypeScript, React и React Hooks
-Библиотеки компонент – на ваше усмотрение
-Ключевая на ваш взгляд функциональность обязательно покрыта тестами
-Проект должен запускаться командой npm i && npm run start
-Проект доступен на GitHub Pages/Vercel/etc.
+**Тестовое задание Frontend Middle в Mindbox**  
+ToDo-приложение на React + TypeScript с тестами.
 
-Для запуска нужно установить зависимости
+[![Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://emelyanovi.github.io/test-todos/)
+
+
+![App Screenshot](https://i.imgur.com/your-screenshot.png)
+
+## ✨ Функционал
+- Добавление новых задач
+- Фильтрация:
+  - Все задачи
+  - Активные
+  - Завершенные
+- Переключение статуса
+- Удаление задач
+- Тесты (Vitest)
+
+## 🛠 Технологии
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://vitejs.dev/logo.svg" width="40" title="Vite"/>
+</p>
+
+## 🚀 Запуск
+```bash
+# Установка
 npm install
-и после запустить
+
+# Запуск
 npm run start
+```
+
+## 🤝 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/front_emelyanov)
